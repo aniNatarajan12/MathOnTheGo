@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1FBFC21-DED4-42F9-A299-06691FF10842</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Math</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A776A4D3D5834E492F64B620DA4483CA29361BC</key>
+		<string>git.assembla.com:mathonthego.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Math.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A776A4D3D5834E492F64B620DA4483CA29361BC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.assembla.com:mathonthego.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A776A4D3D5834E492F64B620DA4483CA29361BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A776A4D3D5834E492F64B620DA4483CA29361BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Math%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>
